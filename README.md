@@ -1,0 +1,2 @@
+# D-veloppement-WEB
+Tout au long de leurs études, les étudiants vont devoir réaliser des stages. Pour ce faire, ils doivent effectuer des recherches afin d’obtenir un stage dans les plus brefs délais et dans le milieu de leur choix. Cependant, cette étape s’avère très difficile pour la majorité des étudiants.  C’est pourquoi nous sommes en charge de réaliser un site web qui regroupe différentes offres de stage et de stocker les données concernant les entreprises ayant déjà pris un stagiaire ou qui en recherchent un.
