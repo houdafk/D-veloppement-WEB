@@ -1,0 +1,28 @@
+.reg_form {
+width: 30%;
+margin: auto;
+border: 1px solid #222;
+padding: 2%;
+}
+
+.register {
+width: 98%;
+padding: 2%;
+padding-right: 0;
+font-family: Georgia;
+color: #888;
+}
+
+.button {
+width: 100%;
+padding: 2%;
+background-color: #cc0000;
+color: #fff;
+border: 0px;
+text-transform: uppercase;
+}
+
+.labels {
+font-weight: bold;
+color: #cc0000;
+}
